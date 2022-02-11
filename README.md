@@ -10,13 +10,13 @@ AI virtual gym is an AI program which can be used to exercise and can be used to
  More exercises will be added and current exercises 
  
  To run the program 
- ##Requirements
+ ## Requirements
  ```bash
  cvzone
  mediapipe
  opencv-python
  numpy 
  ```
- ###Future additions
+ ### Future additions
  1. A full GUI for this program
  2. All the small bugs solved
