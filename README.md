@@ -17,4 +17,6 @@ AI virtual gym is an AI program which can be used to exercise and can be used to
  opencv-python
  numpy 
  ```
- 
+ ###Future additions
+ 1. A full GUI for this program
+ 2. All the small bugs solved
