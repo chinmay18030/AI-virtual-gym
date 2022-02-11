@@ -15,5 +15,6 @@ AI virtual gym is an AI program which can be used to exercise and can be used to
  cvzone
  mediapipe
  opencv-python
- nump ```
+ numpy 
+ ```
  
