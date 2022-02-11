@@ -1,3 +1,8 @@
+"""
+This program is for bicep curls, stand in a way so that your left arm faces the camera (https://i.ytimg.com/vi/in7PaeYlhrM/maxresdefault.jpg stand in a way like this, 
+so that the left arm faces the camera like this)
+
+"""
 import cv2
 import cvzone.PoseModule as pm
 import numpy as np
