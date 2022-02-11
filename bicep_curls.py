@@ -1,6 +1,6 @@
 """
 This program is for bicep curls, stand in a way so that your left arm faces the camera (https://i.ytimg.com/vi/in7PaeYlhrM/maxresdefault.jpg stand in a way like this, 
-so that the left arm faces the camera like this)
+so that the left arm faces the camera like this) and then just put on music and do it, all though if you want to exercise seriously, hold a dumbell. 
 
 """
 import cv2
